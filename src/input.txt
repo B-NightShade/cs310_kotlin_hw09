@@ -1,0 +1,8 @@
+Homer 5.2 6.7 1.2
+Bart 2.9 6.4 7.9
+Lisa 5.0 3.4 0
+Marge 18.7 fred 12.0
+Test 2.3
+Broken 8 9 5 2
+Taylin -4 12 -9
+Hozier 8 9 5
